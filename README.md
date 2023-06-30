@@ -1,4 +1,4 @@
-# hello_world
+# Hello_World
 
 A new Flutter project created with https://flutlab.io
 
@@ -22,3 +22,9 @@ samples, guidance on mobile development, and a full API reference.
 - Implement the BLoC pattern for managing state. 
 - Implement persistence of the grocery list state on disk. When the mobile app is reloaded, it should restore the last saved state of the grocery list.
 The use of shared preferences is recommended for storing and retrieving the grocery list data.
+
+
+## Video Walkthrough
+Here's a walkthrough of implemented app:
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/59068418/ezgif.com-optimize.gif)

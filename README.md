@@ -15,10 +15,10 @@ For help getting started with Flutter, view our
 https://flutter.dev/docs, which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-## Getting Started: FlutLab - Flutter Online IDE
+## Getting Started: Grocery List App 
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Discover a marketplace of ready-to-use Flutter projects https://flutlab.io/widgetbay
-- Join the discussion and conversation on https://flutlab.io/residents
-
-If you have some questions regarding FlutLab, you can ask on https://flutlab.io/faq
+- Build a single-screen grocery list app using the Flutter SDK.
+- The app should allow users to add, remove, and edit items in the grocery list.
+- Implement the BLoC pattern for managing state. 
+- Implement persistence of the grocery list state on disk. When the mobile app is reloaded, it should restore the last saved state of the grocery list.
+The use of shared preferences is recommended for storing and retrieving the grocery list data.
